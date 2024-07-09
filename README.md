@@ -1,6 +1,6 @@
 **# jk_NAND in Verilog**
 
-![sequential-seq14](https://github.com/panda12384/jk_NAND/assets/160568759/ba923b13-cbee-48f2-bd7f-bc998a3951ba)
+![images (3)](https://github.com/panda12384/jk_NAND/assets/160568759/0556f447-e6ac-4416-aabe-6aa953ee3d3d)
 
 
 **The Output**
